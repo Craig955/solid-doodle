@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo rm -rf /Applications/Adobe* /Applications/Utilities/Adobe* /Library/Application\ Support/Adobe /Library/Preferences/com.adobe.* /Library/PrivilegedHelperTools/com.adobe.* /private/var/db/receipts/com.adobe.*
